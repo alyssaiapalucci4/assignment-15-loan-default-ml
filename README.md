@@ -106,4 +106,10 @@ This project demonstrates how machine learning can be used for loan default pred
 ## How to Run
 
 1. Clone the repository  
-2. Install dependencies:
+2. Install dependencies: pip install -r requirements.txt
+3. Run the Jupyter Notebook
+
+---
+
+## Author: Alyssa I
+
